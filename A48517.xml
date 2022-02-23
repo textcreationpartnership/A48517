@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Strange news from the east, or, A sober account of the comet or blazing-star that has been seen several mornings of late giving a relation of its time of rising, colour, magnitude and other circumstances : with an historical discourse of the most eminent comets that have been seen for some hundreds of years, and the effects that followed / by W.L.</title>
+            <author>Lilly, William, 1602-1681.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48517</idno>
+            <idno type="STC">Wing L2248</idno>
+            <idno type="STC">ESTC R25144</idno>
+            <idno type="EEBO-CITATION">08780591</idno>
+            <idno type="OCLC">ocm 08780591</idno>
+            <idno type="VID">41790</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48517)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41790)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1262:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Strange news from the east, or, A sober account of the comet or blazing-star that has been seen several mornings of late giving a relation of its time of rising, colour, magnitude and other circumstances : with an historical discourse of the most eminent comets that have been seen for some hundreds of years, and the effects that followed / by W.L.</title>
+                  <author>Lilly, William, 1602-1681.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for B.H.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title: An account of the comet or blazing-star.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Comets --  1677.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:41790:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 6 -->
+            <p>STRANGE NEWS FROM THE EAST, OR, A SOBER ACCOUNT OF THE COMET, OR BLAZING-STAR That has been ſeen ſeveral Mornings of late.</p>
+            <p>Giving a Relation of its time of Riſing, Colour, Magnitude, and other Circumſtances.</p>
+            <p>With an Hiſtorical Diſcourſe of the moſt emi<g ref="char:EOLhyphen"/>nent Comets that have been ſeen for ſome hundreds of years, and the Effects that followed.</p>
+            <p>By <hi>W. L.</hi> Student in Aſtrology.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>B. H.</hi> in the Year, 1677.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:41790:2"/>
+            <!-- PDF PAGE 7 -->
+            <pb n="3" facs="tcp:41790:2"/>
+            <!-- PDF PAGE 7 -->
+            <head>AN ACCOUNT OF THE COMET, OR BLAZING-STAR.</head>
+            <p>THE Rumour of this Coeleſtial Prodigy coming to our Ear, we could not ſcarce at firſt give any credit thereunto; but being aſſured by Letters from able Artiſts of the certainty of the thing, we were willing to deny our Eyes a few hours ſleep to gratifie their curioſity of beholding ſo rare a Phoenominon.</p>
+            <p>Some report, that in the North about <hi>York</hi> and <hi>Lin<g ref="char:EOLhyphen"/>colnſhire,</hi> it was firſt ſeen about <hi>Eaſter-Eve</hi> in the morn<g ref="char:EOLhyphen"/>ing; but we have not met with any Spectators till the 20. or 21. of this Inſtant <hi>April:</hi> our ſelf beheld it not till <hi>Monday</hi> the 23. about two in the morning, when it appeared above the Horizon towards the North, and ma<g ref="char:EOLhyphen"/>king but a ſmall Arch, after about two hours continu<g ref="char:EOLhyphen"/>ance in view, ſunk again out of this Hemiſphere almoſt
+<pb n="4" facs="tcp:41790:3"/>
+               <!-- PDF PAGE 8 -->due Eaſt; its bigneſs was about a Star of the ſecond mag<g ref="char:EOLhyphen"/>nitude to the eye, but ſomewhat of <hi>Saturn</hi>'s Complexi<g ref="char:EOLhyphen"/>on, cloudy and obſcure; and from the Body, a Stream or Tail ſhooting directly upwards towards the Zenith, ap<g ref="char:EOLhyphen"/>pearing to ſenſe about a Yard or ſomewhat more in length, and ſometimes more conſpicuous than at others; its place was in the Coeleſtial Sign <hi>Aries,</hi> near three Stars that from their Figure are called the <hi>Triangle,</hi> having not convenient Inſtruments I could not take any more exact obſervation, nor can as yet be ſatisfied, whether its pro<g ref="char:EOLhyphen"/>per motion be Direct or Retrograde; but expect daily an exquiſite Account of thoſe Niceties from ſeveral Friends curious in Aſtronomical Studies.</p>
+            <p>As for the cauſes and matter of theſe Blazing-ſtars, moſt Philoſophers conceit them to be ſublunary Mete<g ref="char:EOLhyphen"/>ors, ariſing from the moſt ſubtile and thin breathings that aſcend out of the Earth, and attracted by the Sun to a vaſt heighth, even above the Orb of the Moon, where compacted to a mighty Body they are ſet on fire, or as ſome will have it, not ſo much <hi>Inflamed</hi> as <hi>Englightned</hi> by the Sun: but theſe Accounts ſeem not to give a ſatisfacto<g ref="char:EOLhyphen"/>ry ſolution of the doubts that ariſe from the conſiderati<g ref="char:EOLhyphen"/>on of thoſe Events, which in all Ages they have been ob<g ref="char:EOLhyphen"/>ſerved to be Significators and Fore-runners, though not <hi>Authors</hi> or <hi>Cauſes</hi> of; we therefore more willingly ſub<g ref="char:EOLhyphen"/>ſcribed to the Opinion of that profound modern Philo<g ref="char:EOLhyphen"/>ſopher <hi>Paracelſus,</hi> who affirms, that a Comet is <hi>Creſ<g ref="char:EOLhyphen"/>cens ſingulare,</hi> a Prodigy not generated of any <hi>Sperm,</hi> or produced by any <hi>Matrix,</hi> but formed and compoſed extraordinarily according to the good pleaſure of God by Angels, who put it into ſuch a form or ſhape, and give it ſuch colour as may beſt repreſent the judgements, Muta<g ref="char:EOLhyphen"/>tions, or Accidents thereby ſignified unto the people, unto
+<pb n="5" facs="tcp:41790:3"/>
+               <!-- PDF PAGE 8 -->whom they are ſent, or appear viſible; if with diligent ſtudy they contemplate the ſame, that there<g ref="char:EOLhyphen"/>by they may take warning and amend their Lives, which draw down theſe Menaces of vengeance upon their heads.</p>
+            <p>'Tis the concurrent Vote of all Nations and Ages that Comets are Harbingers of vengeance, to ſome places or people, and fore runners of ſad and dire Calamities — <hi>Alstedius</hi> ſays, <hi>Effecta Cometarum ſunt bona vel Mala,</hi> &amp;c. The effects or ſignifications of Comets are either good or evil, the firſt by taking away from the Globe of Earth noxious Vapours, but for the moſt part they are a Token of ſome Divine Judgment, as may appear in the following Account.</p>
+         </div>
+         <div type="part">
+            <head>A Brief Historical Account of the most strange and memorable Accidents, which have ſucceeded the Apparition of the moſt eminent Comets for ſeveral hundred years laſt past.</head>
+            <p>IN the year 1347. a Comet appeared in <hi>Taurus,</hi> which was followed by a horrible Plague throughout the whole World, in ſo much that Hiſtories report that the Third part of People in <hi>Europe</hi> were therewith de<g ref="char:EOLhyphen"/>ſtroyed.</p>
+            <p>
+               <hi>Anno</hi> 1350. A Comet appeared in the North, in <hi>De<g ref="char:EOLhyphen"/>cember,</hi> and it being extinct, horrible Tempeſts of winds enſued, and did much harm; a great Plague of Locuſts
+<pb n="6" facs="tcp:41790:4"/>
+               <!-- PDF PAGE 9 -->in <hi>Poland,</hi> and the <hi>Engliſh</hi> defeat a great Fleet of <hi>Spani<g ref="char:EOLhyphen"/>ards</hi> at <hi>Winchelſea.</hi>
+            </p>
+            <p>About three years after was another Comet, then hap<g ref="char:EOLhyphen"/>ned the extraordinary dry Summer, and a Dearth of Corn.</p>
+            <p>
+               <hi>Anno</hi> 1375. Appeared a Comet, after which follow<g ref="char:EOLhyphen"/>ed great Calamities in <hi>Italy:</hi> An infinite number of Graſs hoppers came out of the Eaſt, and did almoſt ſpoil all <hi>France.</hi>
+            </p>
+            <p>
+               <hi>Anno</hi> 1594. <hi>Cometa apparuit qui</hi> Veru <hi>appellatur quem peſſimum putant Aſtrologi,</hi> It was ſlender, its Beard and Beams ſtretching upwards, and its Head downwards, a mighty Earth-quake in <hi>Switzerland,</hi> and <hi>Tamberlain</hi> the great Thunder-bolt of War.</p>
+            <p>In the Year 1400, 401, 402, and 403, <hi>Comets</hi> were ſeen in every Year, attended with unheard of Diſeaſes, great Wars in <hi>Aſia;</hi> and <hi>John Huſſe</hi> (contrary to the <hi>Emperour</hi>'s Safe-Conduct) condemned and burnt to death for preaching the Goſpel in <hi>Bohemia.</hi>
+            </p>
+            <p>
+               <hi>Anno</hi> 1433 a vaſt <hi>Comet</hi> was ſeen for three months to<g ref="char:EOLhyphen"/>gether in the <hi>Eaſt;</hi> preſently happened a dearth of Corn and Famine in diverſe Regions for ſix Years.</p>
+            <p>
+               <hi>Anno</hi> 1444 a <hi>Comet</hi> about the Summer Solſtice, after which the <hi>French Dolphin</hi> brought 30000 <hi>Armenians</hi> in <hi>Switzerland,</hi> and deſtroy'd the People of that Countrey in a moſt bloody Battel.</p>
+            <p>
+               <hi>Anno</hi> 1460. <hi>Cometa viſu terribile apparuit,</hi> a terrible <hi>Comet</hi> was ſeen, immediately <hi>Charles</hi> the <hi>French</hi> King dies, and a great Peſtilence in <hi>Saxony.</hi>
+            </p>
+            <p>1472 on the 13 of <hi>January</hi> appeared a <hi>Comet</hi> in <hi>Libra,</hi> very ſlow, but at laſt when haſtily the whole <hi>Hemiſphere</hi> between the Poles of the <hi>Zodiack</hi> and the <hi>Aequinoctial,</hi> with ſuch celerity, that it moved in one day 40 de<g ref="char:EOLhyphen"/>grees,
+<pb n="7" facs="tcp:41790:4"/>
+               <!-- PDF PAGE 9 -->forthwith many Princes take their progreſs into another World, and the mighty River <hi>Danubius</hi> was ſo dry'd up by exceſſive heat, that Men paſſed over on foot.</p>
+            <p>
+               <hi>Anno</hi> 1478. a <hi>Comet</hi> of a <hi>Saturnine-colour, Lewis</hi> the Eleventh King of <hi>France</hi> invades <hi>Burgundy,</hi> where he 2000 Men.</p>
+            <p>
+               <hi>Anno</hi> 1500 a <hi>Comet</hi> of incredible bigneſs for 18 days in the Month of <hi>April</hi> appeared towards the North: The <hi>Tartars</hi> ſpoil all <hi>Ruſſia</hi> and <hi>Poland,</hi> Plague and Famine in loſt <hi>Germany.</hi>
+            </p>
+            <p>Six Years after two <hi>Comets</hi> appeared; the firſt in <hi>April,</hi> its motion like the <hi>Planets</hi> was from Weſt to Eaſt: The other in <hi>Auguſt,</hi> between North and Eaſt; the King of <hi>Spain</hi> and <hi>Emperour</hi> dye, wars between the <hi>Venetian</hi> and <hi>French,</hi> and great ſcarcity.</p>
+            <p>
+               <hi>Anno</hi> 1533 a mighty <hi>Comet</hi> out of the <hi>Zodiack;</hi> This fore-went the Reformation and changes in <hi>England,</hi> by King <hi>Henry</hi> the Eight, and Birth of Queen <hi>Elizabeth.</hi>
+            </p>
+            <p>1572. The new <hi>Star</hi> or <hi>Comet</hi> in <hi>Caſſiopea;</hi> the ſame Year happened the <hi>Pariſian Maſſacre,</hi> or the <hi>French Wed<g ref="char:EOLhyphen"/>ding,</hi> where there was more <hi>Proteſtants</hi> Blood ſpent than wine; <hi>Charles</hi> the Ninth of <hi>France</hi> and <hi>Selymus</hi> the <hi>Great Turk</hi> dye.</p>
+            <p>1618. for almoſt two Months appeared a <hi>Comet</hi> with an exceeding long Tail, preſently the lamentable wars began in <hi>Germany,</hi> followed by thoſe in <hi>Ireland, England,</hi> and where not.</p>
+            <p>1652. Another in <hi>Gemini</hi> and <hi>Taurus;</hi> The <hi>Engliſh</hi> ſub<g ref="char:EOLhyphen"/>due <hi>Scotland,</hi> and beat the <hi>Dutch</hi> at Sea, <hi>Cromwell</hi> uſurps the Government; The <hi>Pope</hi> and King of the <hi>Romans</hi> dye.</p>
+            <p>In 1664 and 1665. we had three <hi>Comets,</hi> and how plain their ſignifications are ſince recorded as well in our Nation by <hi>Peſtilence, Fire,</hi> and <hi>Forreign Wars,</hi> as
+<pb n="8" facs="tcp:41790:5" rendition="simple:additions"/>
+               <!-- PDF PAGE 10 -->abroad by that deſolation that hath been made in many darts, cannot certainly be unreguarded or forgot. We ſhall conclude this Diſcourſe, in reference to the preſent <hi>Comet,</hi> with that of the Prophet. <hi>Jer.</hi> 10.2. <hi>Fear not the Signs of Heaven;</hi> but rather fear <hi>GOD</hi> the Au<g ref="char:EOLhyphen"/>thor of theſe <hi>Signs:</hi> Let us behold and meditate on theſe things as <hi>Chriſtians;</hi> and though <hi>Aſtrologers</hi> tender Na<g ref="char:EOLhyphen"/>tural Cauſes and Portents of <hi>Comets, &amp;c.</hi> Which ap<g ref="char:EOLhyphen"/>pear in Heaven, let them not ſhake our Faith, but be only as ſo many <hi>Trumpets</hi> or <hi>Heraulds</hi> ſent from the Di<g ref="char:EOLhyphen"/>vine Majeſty, advertiſing Men that they perſiſt not in their filthy ſinful courſes, acknowledging that when theſe <hi>Blazing-Meteors</hi> hang over our Heads, they ſeem as if God held his Rod over us, threatning to ſcourge us, or reacheth his hand to us to call us by ſuch <hi>Signs</hi> to change our Lives, to the end that through his mercy we may obtain pardon for our ſins.</p>
+            <figure>
+               <figDesc>depiction of tailed comet</figDesc>
+            </figure>
+         </div>
+      </body>
+   </text>
+</TEI>
